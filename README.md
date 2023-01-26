@@ -10,7 +10,11 @@ You can check out a demo of the plugin in action on the following site:
 
 ## Features
 - **Easy to use interface** with a form that takes a prompt and a model
-- **Multiple models** to choose from, including Davinci, Curie, Babbage, Ada
+- **Multiple models** to choose from, including:
+  - Davinci: A very powerful model with high quality output
+  - Curie: A highly expressive and versatile model
+  - Babbage: A highly capable model that excels at understanding the context of a given prompt
+  - Ada: A powerful model that is good at understanding and generating text with a scientific or technical focus
 - **Easy to customize** with the ability to change default parameters such as max_tokens, temperature, presence_penalty,frequency_penalty,best_of and stream.
 
 ## Installation Instructions
