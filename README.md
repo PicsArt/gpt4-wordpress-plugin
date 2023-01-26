@@ -2,6 +2,8 @@
 
 This is a Wordpress plugin that uses the OpenAI GPT-3 API to generate text. It allows users to enter a prompt, select a model and generate text based on the prompt and model selected.
 
+We were thrilled with the power of ChatGPT – it allowed us to create this free WordPress plugin with just a few tweaks! 80% of the work was already done for us, so it was a breeze to get up and running!
+
 ## Demo Site
 You can check out a demo of the plugin in action on the following site:
 - [Demo Site](https://aicreate.com/text-to-text-ai/)
