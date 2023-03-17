@@ -1,6 +1,6 @@
-# GPT3 Wordpress Plugin
+# GPT4 Wordpress Plugin 
 
-This is a Wordpress plugin that uses the [OpenAI](openai.com) GPT-3 API to generate text. It allows users to enter a prompt, select a model and generate text based on the prompt and model selected.
+This is a Wordpress plugin that uses the [OpenAI](openai.com) GPT-4 API to generate text. It allows users to enter a prompt, select a model and generate text based on the prompt and model selected.
 
 We were thrilled with the power of [ChatGPT](chat.openai.com) – it allowed us to create this free WordPress plugin with just a few tweaks! 80% of the work was already done for us, so it was a breeze to get up and running!
 
@@ -10,12 +10,7 @@ You can check out a demo of the plugin in action on the following site:
 
 ## Features
 - **Easy to use interface** with a form that takes a prompt and a model
-- **Multiple models** to choose from, including:
-  - Davinci: A very powerful model with high quality output
-  - Curie: A highly expressive and versatile model
-  - Babbage: A highly capable model that excels at understanding the context of a given prompt
-  - Ada: A powerful model that is good at understanding and generating text with a scientific or technical focus
-- **Easy to customize** with the ability to change default parameters such as max_tokens, temperature, presence_penalty,frequency_penalty,best_of and stream.
+- **Easy to customize** with the ability to change default parameters such as role, temperature, prefix/post fix to the prompt.
 
 ## Installation Instructions
 1. Download the plugin files from GitHub.
